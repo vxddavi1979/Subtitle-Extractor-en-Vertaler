@@ -1,6 +1,3 @@
-# Subtitle-Extractor-en-Vertaler
-Subtitle Extractor en Vertaler van Engels naar Dutch
-
 # Subtitle Extractor en Vertaler
 
 Een Python-script om automatisch ondertitels uit videobestanden te extraheren, te vertalen van Engels naar Nederlands, en tekst voor slechthorenden te verwijderen.
